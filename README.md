@@ -1,4 +1,4 @@
-🎵 Spotify Web Player Clone
+ Spotify Web Player Clone🎵 
 
 Hi 👋
 This is my Spotify Web Player Clone built using HTML and CSS.
